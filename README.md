@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Roh1507
 - 👀 I’m interested in Web and UI Designing .
 - 🌱 I’m currently learning FrontEnd Developer Projects to sharpen my Skills.
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on Various Web and UI/UX Projexts
 - 📫 How to reach me :- email rohit.lohare78@gmail.com
 
 <!---
